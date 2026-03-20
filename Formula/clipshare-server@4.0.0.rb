@@ -1,4 +1,4 @@
-class ClipshareServer < Formula
+class ClipshareServerAT400 < Formula
   desc "Lightweight tool for sharing clipboard across devices"
   homepage "https://github.com/thevindu-w/clip_share_server"
   url "https://github.com/thevindu-w/clip_share_server/releases/download/v4.0.0/clip_share_server-4.0.0-macos.zip"
