@@ -1,4 +1,4 @@
-class ClipshareClient < Formula
+class ClipshareClientAT412 < Formula
   desc "Lightweight tool for sharing clipboard across devices"
   homepage "https://github.com/thevindu-w/clip_share_desktop"
   url "https://github.com/thevindu-w/clip_share_desktop/releases/download/v4.1.2/clip_share_client-4.1.2-macos.zip"
