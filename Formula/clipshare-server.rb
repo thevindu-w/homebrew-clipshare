@@ -1,8 +1,8 @@
 class ClipshareServer < Formula
   desc "Lightweight tool for sharing clipboard across devices"
   homepage "https://github.com/thevindu-w/clip_share_server"
-  url "https://github.com/thevindu-w/clip_share_server/releases/download/v4.3.1/clip_share_server-4.3.1-macos.zip"
-  sha256 "224ec6979e155e0d51a0027726e2bf9675ac03c2e107ad622ff93670a4fe5370"
+  url "https://github.com/thevindu-w/clip_share_server/releases/download/v4.3.2/clip_share_server-4.3.2-macos.zip"
+  sha256 "5b2ce3f1dc967a6dca35ad822411fe5c1c96cb9c3630a2a44331616b5274f9c7"
   license "GPL-3.0-or-later"
 
   depends_on "libunistring"
